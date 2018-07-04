@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/http/use_httplib.py=utf-8
+encoding//src/http/use_requests.py=utf-8
+encoding//src/http/use_urllib2.py=utf-8
+encoding//src/hxtest/hxtest.py=utf-8
+encoding//src/jsonlib/use_json.py=utf-8
+encoding//src/jsonlib/use_json_file.py=utf-8
+encoding//src/jsonlib/use_json_requests.py=utf-8
+encoding//src/test_suite/testSuite.py=utf-8
+encoding//src/test_unittest/Div.py=utf-8
+encoding//src/test_unittest/TestDiv.py=utf-8
+encoding//src/test_unittest/TestDiv2.py=utf-8
+encoding//src/testcase/downloadMovie.py=utf-8
